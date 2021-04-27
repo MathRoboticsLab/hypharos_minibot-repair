@@ -3,7 +3,7 @@ For repairing the hypharos minibot, this are some part of its components.
 
 ## About us
 * Developer: Hsin Jhao \
-**Contact: 94332eric@gmail.com
+**Contact: 94332eric@gmail.com \
 **Date: 2021/4/24
 
 ## About Minibot
